@@ -2,9 +2,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
 import seaborn as sns
 print(sns.__version__)
+
 from plotly import graph_objs as go
 
 # add title
